@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General contact
+    url: https://www.linkedin.com/in/deepvaishnani459/
+    about: For non-technical inquiries, please reach out via LinkedIn instead of an issue.

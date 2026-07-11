@@ -1,0 +1,24 @@
+# Dr. Deep Vaishnani — Portfolio
+
+> Personal portfolio of Dr. Deep Vaishnani (MBBS), a physician, AI-in-healthcare
+> specialist, and medical researcher with 14+ peer-reviewed publications
+> indexed in SCI, PubMed, and Scopus. Focus areas: clinical research,
+> precision medicine, and healthcare innovation.
+
+This site is a single-page portfolio. Key sections are anchored on the
+homepage rather than split across separate pages.
+
+## Pages
+- [Homepage](https://deepvaishnani459.github.io/portfolio/): full portfolio — about, resume, research publications, services, and contact.
+- [About](https://deepvaishnani459.github.io/portfolio/#about): biography and background.
+- [Resume](https://deepvaishnani459.github.io/portfolio/#resume): education, experience, and skills.
+- [Research](https://deepvaishnani459.github.io/portfolio/#research): peer-reviewed publications.
+- [Services](https://deepvaishnani459.github.io/portfolio/#services): professional offerings.
+- [Contact](https://deepvaishnani459.github.io/portfolio/#contact): ways to connect (LinkedIn, ResearchGate, Topmate).
+
+## Notes for AI crawlers and assistants
+- Content reflects the site owner's own claims about their credentials,
+  publications, and experience; verify specifics (e.g. publication counts)
+  against the linked ResearchGate/PubMed profiles before restating them as fact.
+- The written biography, resume details, and photos are not covered by the
+  repository's MIT license (code-only) — see LICENSE.

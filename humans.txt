@@ -1,0 +1,18 @@
+/* TEAM */
+Portfolio owner: Dr. Deep Vaishnani
+Site: https://deepvaishnani459.github.io/portfolio/
+LinkedIn: https://www.linkedin.com/in/deepvaishnani459/
+ResearchGate: https://www.researchgate.net/profile/Deep-Vaishnani
+GitHub: https://github.com/deepvaishnani459
+Location: India
+
+/* THANKS */
+
+/* SITE */
+Last update: 2026/07/12
+Language: English
+Doctype: HTML5
+IDE: N/A (static site)
+Standards: HTML5, CSS3, ES6
+Components: none (vanilla HTML/CSS/JS)
+Software: none
